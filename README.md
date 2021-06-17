@@ -20,3 +20,11 @@ I hope you can learn a lot from my profile and, above all, enjoy doing it!!
 ### Contact me
 
 [![Email](https://img.shields.io/badge/iafp613@gmail.com-my_personal_email-EA4335?style=for-the-badge&logo=gmail&logoColor=BB001B&labelColor=FBBC05)](mailto:iafp613@gmail.com)
+
+### Codewars
+
+[![Codewars stats](https://www.codewars.com/users/iafp613/badges/large)](https://www.codewars.com/users/iafp613)
+
+### Github status
+
+<img align="left" alt="iafp613's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iafp613&show_icons=true&hide_border=true" />
