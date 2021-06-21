@@ -13,6 +13,8 @@ Currently, I am training as a Data Scientist to be able to enter in this excitin
 
 I hope you can learn a lot from my profile and, above all, enjoy doing it!!
 
+<img src="https://komarev.com/ghpvc/?username=iafp613"/>
+
 ### Skills
 
 [![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFD43B)]()
