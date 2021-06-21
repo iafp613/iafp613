@@ -17,6 +17,10 @@ I hope you can learn a lot from my profile and, above all, enjoy doing it!!
 
 [![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFD43B)]()
 
+### Used programming languages
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iafp613&theme=blue-green)
+
 ### Contact me
 
 [![Email](https://img.shields.io/badge/iafp613@gmail.com-my_personal_email-EA4335?style=for-the-badge&logo=gmail&logoColor=BB001B&labelColor=FBBC05)](mailto:iafp613@gmail.com)
