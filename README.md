@@ -86,7 +86,17 @@ I hope you can learn a lot from my profile and, above all, enjoy doing it!!
 
 [![Email](https://img.shields.io/badge/iafp613@gmail.com-my_personal_email-EA4335?style=for-the-badge&logo=gmail&logoColor=BB001B&labelColor=FBBC05)](mailto:iafp613@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iafp/)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ignacioafontalpatac/)
+
 ---
 ### Github status
 
+[![Nacho Fontal's github trophy](https://github-profile-trophy.vercel.app/?username=iafp613&row=1)](https://github.com/iafp613/github-profile-trophy)
+
+
 <img align="left" alt="iafp613's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iafp613&show_icons=true&hide_border=true" />
+
+[![Nacho Fontal's github streak](https://github-readme-streak-stats.herokuapp.com/?user=iafp613&theme=blue-green)](https://github.com/iafp613/github-readme-streak-stats)
+
